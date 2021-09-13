@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+  - title: "Expertise"
+    url: /expertise
+  - title: "RJC"
+    url: /restorative-just-culture
+  - title: "Civility and Respect"
+    url: /civility-and-respect
+  - title: "Patient Safety"
+    url: /patient-safety
+  - title: "Programmes"
+    url: /programmes
+  - title: "Get Involved"
+    url: /get-involved
+  - title: "Training"
+    url: /training
+  - title: "Resources"
+    url: /resources
+  - title: "Research"
+    url: /research
