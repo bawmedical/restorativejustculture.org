@@ -20,7 +20,7 @@ title                    : "RJC VCoP"
 email                    : info@restorativejustculture.org
 title_separator          : "-"
 subtitle                 : "The Restorative Just Culture Community of Practice"
-name                     : "Dr Marcus Baw"
+name                     : "The Restorative Just Culture Community of Practice"
 description              : "An online Community of Practice for the Restorative Just Culture community"
 url                      : https://restorativejustculture.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -35,7 +35,7 @@ comments:
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : forum.restorativejustculture.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Restorative Just Culture Community"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : 
+  location         : 
   email            :
   links:
     - label: "Email"
@@ -130,12 +130,24 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 
 
@@ -274,7 +286,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _pages
@@ -282,5 +294,11 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: false
+      toc: true
+      toc_sticky: true
+      toc_icon: book
+      toc_label: "Page contents"
+      sidebar:
+          nav: main

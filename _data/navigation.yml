@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Forum"
+    url: https://forum.restorativejustculture.org/
   - title: "About"
     url: /about
   - title: "Expertise"
@@ -8,6 +10,8 @@ main:
     url: /restorative-just-culture
   - title: "Civility and Respect"
     url: /civility-and-respect
+  - title: "Psychological Safety"
+    url: /psychological-safety
   - title: "Patient Safety"
     url: /patient-safety
   - title: "Programmes"
