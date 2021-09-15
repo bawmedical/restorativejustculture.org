@@ -18,8 +18,6 @@ main:
     url: /programmes
   - title: "Get Involved"
     url: /get-involved
-  - title: "Training"
-    url: /training
   - title: "Resources"
     url: /resources
   - title: "Research"
