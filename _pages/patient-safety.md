@@ -33,5 +33,4 @@ In this video Panchu discusses and explains the different ways in which we can l
 
 Implementing restorative principles and practices is the centre of much effort and debate in the NHS. How to achieve this significant and transformative change while meeting critical indicators is something we are all learning. Mersey Care NHS Foundation Trust has been working on this with their teams from mental health services, organisational effectiveness and patient safety to see how this can be done. (VIEW OR DOWNLOAD HERE) **SEE MC PATIENTS SAFTEY CASE STUDY IN THE FILE. <--- can't find this in the file as yet**
 
-<object data="../assets/documents/Mersey Care - Respect and civility 15_9_21.pdf" type='application/pdf'></object>
-
+<object data="../assets/documents/Mersey Care - Respect and civility 15_9_21.pdf" width="100%" height="100%" type='application/pdf'></object>
