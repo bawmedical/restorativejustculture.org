@@ -22,13 +22,3 @@ We are currently exploring developing and piloting research studies in the follo
 * New Interpretations – which data sets do we really need to be working with to discover gaps and hidden stories in the quest for restorative practices.
 
 If you would be interested in joining our research community as a participating Trust or partner for any of the research studies above or have an idea for a research collaboration that you think could benefit the community then please let us know and [contact us](../about/#contact-us)
-
-## Training Case Studies
-
-## Programme Case Studies
-
-## What are people saying?
-
-## Our Previous Work
-
-## The Mesey Care NHS FT Journey

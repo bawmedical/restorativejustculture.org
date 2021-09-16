@@ -8,6 +8,11 @@ main:
     url: /restorative-just-culture
   - title: "Civility and Respect"
     url: /civility-and-respect
+    children:
+      - title: "NHSEI"
+        url: /civility-and-respect
+      - title: "MerseyCare"
+        url: /civility-and-respect
   - title: "Psychological Safety"
     url: /psychological-safety
   - title: "Patient Safety"
