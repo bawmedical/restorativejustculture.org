@@ -14,7 +14,7 @@ As part of their work, they introduced a Civility and Respect workstream group w
 
 In the following video you can watch Lois Newitt HR Strategic Lead For Community and Local Divisions at Mersey Care NHS Foundation Trust discuss the important work within Mersey Care NHS Foundation Trust regarding the role of civility and respect in restorative practices.
 
-<iframe src="https://northumbria.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b350f220-9971-4f50-9931-ac600099c97c&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="100%" frameborder="0"></iframe>
+<iframe src="https://www.dropbox.com/s/o377xool0z188v6/Lois%20Presentation.mp4?raw=1" height="405" width="100%" frameborder="0"></iframe>
 
 In this video, Lois discusses the actions of Mersey Care regarding civility and respect and restorative just cultures such as creating and supporting respect and civility work streams, the development of a comprehensive training plan and triangulating data sources to measure and evaluate the impact of these. Lois also discusses the ‘Respect and Civility Jigsaw’ and the ‘Respect and Civility Booklet’ that are just some of the tools and frameworks that Mersey Care have developed as a way of empowering staff to challenge miscommunication, reduce hurt and always choose civility and respect and a positive culture.
 
@@ -24,7 +24,7 @@ This also includes a discussion around the Social Partnership Forum's Call to Ac
 
 {% include gallery caption="The Mersey Care NHS Civility and Respect Jigsaw" %}
 
-Designed by the civility and respect working group at Mersey Care NHS Foundation Trust, the civility and respect jigsaw is a working tool that is designed to empower staff to challenge miscommunication, reduce hurt and always choose civility and a positive culture. The respect and civility jigsaw describes both positive and negative behaviours that we may have experienced, witnessed, or demonstrated ourselves towards others. You can download the puzzle and guide here INSERT THE BOOKLET HERE.
+Designed by the civility and respect working group at Mersey Care NHS Foundation Trust, the civility and respect jigsaw is a working tool that is designed to empower staff to challenge miscommunication, reduce hurt and always choose civility and a positive culture. The respect and civility jigsaw describes both positive and negative behaviours that we may have experienced, witnessed, or demonstrated ourselves towards others. You can download the puzzle and guide [here](../assets/documents/Mersey%20Care%20-%20Respect%20and%20civility%2015_9_21.pdf)
 
 The green side of the jigsaw describes what respectful and civil behaviour looks like; the red side describes what disrespectful and uncivil behaviour looks like. The following is a suggestion for how you can use this with your teams:
 
