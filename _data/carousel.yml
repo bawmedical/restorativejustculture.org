@@ -1,3 +1,6 @@
 images: 
-  - image: assets/images/jigsaw-green.png
-  - image: assets/images/jigsaw-red.png
+  - image: assets/carousel/carousel-slide0.jpg
+  - image: assets/carousel/carousel-slide1.jpg
+  # - image: assets/carousel/carousel-slide2.jpg
+  - image: assets/carousel/carousel-slide3.jpg
+  - image: assets/carousel/carousel-slide4.jpg

@@ -32,6 +32,9 @@ feature_row:
 
 This Restorative Just Culture Community of Practice brings together those people who are bound together by a genuine passion to bring about a restorative just culture in their organisation. It aims to serve as a resource and knowledge exchange for people and organisations making the shift from learning to implementation of a restorative just culture.  
 
+{% include carousel.html height="400" unit="px" duration="7" %}
+
+
 As a **COMMUNITY** we will engage, share, support and learn with each other as we navigate our way through the restorative just culture journey. As a community of practice, we differ from other entities such as work groups and informal networks in that our focus is on the co-development of skills and the construction and exchange of knowledge in this area.  
 
 Through **PRACTICE** we will share and apply the restorative frameworks, ideas, tools, information and stories as we connect and communicate with each other. We hope that by being an active member of this community you will benefit from having an arena for problem solving, find quick answers to questions, feel a sense of belonging and empowerment, find resources for implementing strategies, develop your own practitioner skills and behaviours, enhance your individual and shared learning and many more benefits that will organically evolve from all of your being part of this community.  
