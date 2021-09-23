@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "RJC VCoP"
+title                    : "RJC CoP"
 email                    : info@restorativejustculture.org
 title_separator          : "-"
 subtitle                 : "The Restorative Just Culture Community of Practice"

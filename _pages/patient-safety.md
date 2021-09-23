@@ -3,8 +3,6 @@ title: Re-thinking Patient Safety
 permalink: /patient-safety/
 ---
 
-**Will Need to think of graphics etc here to add to the page**
-
 ## Patient Safety – Just what does this mean for Restorative Just Cultures
 
 Patient safety is a combination of culture, behaviours and underlying conditions – it is fundamentally about the way we relate to and work with each other. Patient Safety as a concept is not new, but re -thinking patient safety and how we can underpin our processes, systems, polices and regulatory frameworks with restorative principles and practices is one of the ways we can re-think patient safety which provides the best support for our patients and our workforce.
@@ -17,7 +15,7 @@ If you and your Trust are also adapting your patient safety practices, policies 
 
 First lets hear from Dr Panchu Xavier, Consultant Forensic Psychiatrist, Deputy Medical Director and Director of Patient Safety at Mersey Care NHS Foundation Trust.
 
-<iframe src="https://northumbria.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=67083bbe-4a51-4c8a-8339-adab0081492b&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="100%" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://northumbria.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=67083bbe-4a51-4c8a-8339-adab0081492b&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="100%" frameborder="0"></iframe>
 
 In this video Panchu discusses and explains the different ways in which we can learn from incidents and the important role that psychological safety plays in this learning. In particular Panchu will share key points regarding patient safety, quality and a restorative just culture such as:
 
@@ -31,6 +29,6 @@ In this video Panchu discusses and explains the different ways in which we can l
 
 ## Case Study - Our Just and Learning Culture: application to Patient safety and innovation
 
-Implementing restorative principles and practices is the centre of much effort and debate in the NHS. How to achieve this significant and transformative change while meeting critical indicators is something we are all learning. Mersey Care NHS Foundation Trust has been working on this with their teams from mental health services, organisational effectiveness and patient safety to see how this can be done. (VIEW OR DOWNLOAD HERE) **SEE MC PATIENTS SAFTEY CASE STUDY IN THE FILE. <--- can't find this in the file as yet**
+Implementing restorative principles and practices is the centre of much effort and debate in the NHS. How to achieve this significant and transformative change while meeting critical indicators is something we are all learning. Mersey Care NHS Foundation Trust has been working on this with their teams from mental health services, organisational effectiveness and patient safety to see how this can be done.
 
 <object data="../assets/documents/Patient Safety Case Study MC NHS FT.pdf" width="100%" height="100%" type='application/pdf'></object>

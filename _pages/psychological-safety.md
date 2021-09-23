@@ -3,49 +3,25 @@ title: "Psychological Safety in Healthcare Settings"
 permalink: /psychological-safety
 ---
 
-“Psychological Safety is a SHARED belief that no one will be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes​” {: .notice--success}
+“Psychological Safety is a SHARED belief that no one will be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes​”
 
 (Professor Amy Edmondson) 
 
- 
-
- 
-
-As recently as 25 years, unfavourable outcomes for a patient as a result of breakdowns in interpersonal human factors such as leadership, communication, team structure, team resilience and team levels of psychological safety, were seen as an inevitable consequence of the care a patient received. However, national reviews into patient safety such as A Promise to Learn - A Commitment to Act (Gov.UK 2013) and The NHS Patient Safety Strategy (2019) has seen a shift in this thinking, regarding many unfavourable outcomes as preventable and unacceptable and citing the need for psychologically safe teams that can work effectively together without a culture of fear and blame as critical to the prevention. 
-
- 
+As recently as 25 years, unfavourable outcomes for a patient as a result of breakdowns in interpersonal human factors such as leadership, communication, team structure, team resilience and team levels of psychological safety, were seen as an inevitable consequence of the care a patient received. However, national reviews into patient safety such as A Promise to Learn - A Commitment to Act (Gov.UK 2013) and The NHS Patient Safety Strategy (2019) has seen a shift in this thinking, regarding many unfavourable outcomes as preventable and unacceptable and citing the need for psychologically safe teams that can work effectively together without a culture of fear and blame as critical to the prevention.
 
 Voice Behaviour and Keeping Silent – because of our traditions and cultures, keeping silent has often been a social exaptation that we believe will maintain our interdependence in our social or workplace groups, harmony, conformance and as a way of avoiding conflict in the workplace.  As such, we can be prone to withholding our voices rather than voice our concerns or ideas or report our own or other errors.  
 
- 
-
-Language plays a huge part here as it subconsciously attaches stigma to certain words. Even from that sentence – the word error makes people not want to voice something that has happened, but what if the organisation change the word error to when things don’t go as planned or as expected, how much safer or willing would people feel to voice that “something hadn’t gone as expected” rather than “I’ve made an error”. 
-
- 
+Language plays a huge part here as it subconsciously attaches stigma to certain words. Even from that sentence – the word error makes people not want to voice something that has happened, but what if the organisation change the word error to when things don’t go as planned or as expected, how much safer or willing would people feel to voice that “something hadn’t gone as expected” rather than “I’ve made an error”.
 
 Physiological Safety and Restorative Just Cultures are inextricably linked in the workplace. Restorative just cultures realise that to err is human and to operate in a blame culture deals only with the person as the perpetrator, which closes down any learning of the contributing and causal factors that will remain in the system, so nothing is fixed. By creating psychologically safe environments, people are supported when things don’t go as expected or planned so feel safe to share their experiences, which is when the learning begins to happen.  
 
- 
-
-In countries and organisations where the culture emphasizes collectivism, obedience, and respect for authority, people do not feel safe, or it is not the norm’ to make suggestions, ask questions, challenging authority or reporting something that may negatively influence patient care. It’s not so much the speaking up part that employees have a fear of – it’s the potentially negative consequences and impacts that come from speaking up and reporting errors that people are fearful of, consequences which are quietly likely to happen in organisations where blame cultures exist. Restorative just cultures will map out and consider exactly what happens when someone speaks up, contributes, reports and error etc to see where the negative consequences occur and work out what needs to change so that people are supported but accountability is not avoided, and the learning takes place.  Remember – what is happening in your organisation will be different to others, so mapping out your own processes and figuring out the gaps is the only way of doing this. 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+In countries and organisations where the culture emphasizes collectivism, obedience, and respect for authority, people do not feel safe, or it is not the norm’ to make suggestions, ask questions, challenging authority or reporting something that may negatively influence patient care. It’s not so much the speaking up part that employees have a fear of – it’s the potentially negative consequences and impacts that come from speaking up and reporting errors that people are fearful of, consequences which are quietly likely to happen in organisations where blame cultures exist. Restorative just cultures will map out and consider exactly what happens when someone speaks up, contributes, reports and error etc to see where the negative consequences occur and work out what needs to change so that people are supported but accountability is not avoided, and the learning takes place.  Remember – what is happening in your organisation will be different to others, so mapping out your own processes and figuring out the gaps is the only way of doing this.
 
 Inclusive and Compassionate Leadership – inclusive leaders actively invite others to make contributions, voice their opinions, ask questions, and show appreciation for those contributions so that employees and teams feel that their voices are valued and heard.  
 
 Leadership or team leadership and/or management behaviour can directly influence voice behaviour which in turn will affect the level to which people feel safe to voice anything. In health care organisation, by demonstrating inclusive leadership we can positively influence and increase level of psychological safety in the workplace which can decrease an employee’s fear of the potentially negative consequences of speaking up and error reporting.
 
-Psychological Safety and Civility and Respect - In health care settings, types of negative behaviours such as incivility and disrespect, microaggressions and bullying and harassment have been shown to undermine levels of patient safety and are associated with decreased productivity, decreased team psychological safety, absenteeism, increased staff turnover employee and unfavourable patient outcomes. 
+Psychological Safety and Civility and Respect - In health care settings, types of negative behaviours such as incivility and disrespect, microaggressions and bullying and harassment have been shown to undermine levels of patient safety and are associated with decreased productivity, decreased team psychological safety, absenteeism, increased staff turnover employee and unfavourable patient outcomes.
 
 Although there is a wealth of evidence on the outcomes of team psychological safety such as organisational learning and high performing teams (e.g., Edmondson, 1999; Guchair, Pasamehmetoglu & Dawson, 2014; Nembhard & Edmondson, 2011) a further important question we need to be able to answer in the work place is:  
 

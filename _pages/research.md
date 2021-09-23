@@ -2,10 +2,7 @@
 title: Research
 permalink: /research/
 ---
-
-**Will Need to think of graphics etc here to add to the page**
-
-## Join our research community
+## Join our RJC research community
 
 We are currently exploring developing and piloting research studies in the following areas:
 

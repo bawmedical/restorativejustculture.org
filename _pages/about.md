@@ -56,7 +56,7 @@ bio-row-1:
     url: about#neill-thompson
     alt: "Neill Thompson image"
     title: "Neill Thompson"
-    excerpt: "eill Thompson is a Senior Lecturer in Occupational and Organisational Psychology at Northumbria University and Programme Leader for the MSc..."
+    excerpt: "Neill Thompson is a Senior Lecturer in Occupational and Organisational Psychology at Northumbria University and Programme Leader for the MSc..."
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/about/Jayne%20Toole%20IMG_4670.jpg
@@ -80,13 +80,6 @@ bio-row-1:
     excerpt: "Panchu was appointed as Consultant Forensic Psychiatrist in 2012 at Ashworth Hospital, one of three high security forensic psychiatry hospitals..."
     btn_label: "Read More"
     btn_class: "btn--primary"
-partner-row:
-  - image_path: assets/images/bob-logo.jpg
-    alt: "BOB ICS logo"
-    title: "BOB ICS"
-  - image_path: assets/images/TBC
-    alt: "NHS Civility and Respect Programme image"
-    title: "NHS Civility and Respect Programme"
 ---
 
 # Meet the Restorative Just Culture Community Of Practice Team
@@ -262,10 +255,12 @@ Panchu has presented at international and national conferences on clinical issue
 
 Our partnerships and collaboration are a central component of how this community of practice works, grows and learns to push the boundaries and challenge the thinking around organisational cultures. Our partnerships reflect organisations who share a similar passion for restorative just cultures and are currently pursing work in and around its central themes.
 
-If you are interested in finding out more about the ways in which you can become one of our partners to continue this work please contact Dr Kristina Brown at Kristina.brown@northumbria.ac.uk
+If you are interested in finding out more about the ways in which you can become one of our partners to continue this work please contact Dr Kristina Brown at [kristina.brown@northumbria.ac.uk](mailto:kristina.brown@northumbria.ac.uk)
 
-{% include feature_row id="partner-row" %}
+![BOB ICS logo](../assets/images/bob-logo.jpg){: width="300" }  
+
+![NHS Civility and Respect Programme image](../assets/images/TBC)
 
 # Contact Us
 
-If you need get in touch with us please use the contact form below to tell us your comments, thoughts, suggestions, book a programme, seek advice and support, ideas for an initiative or anything else that comes to mind.
+If you need get in touch, please email us to tell us your comments, thoughts, suggestions, book a programme, seek advice and support, ideas for an initiative or anything else that comes to mind. Contact [kristina.brown@northumbria.ac.uk](mailto:kristina.brown@northumbria.ac.uk)
