@@ -10,15 +10,15 @@ Civility and Respect has huge implications for the implementation and success of
 
 Collectively, we must ensure staff feel valued, supported and empowered to carry out their work. This needs to be role modelled throughout teams and organisations. Leaders at all levels, therefore, have an integral role to play in exhibiting behaviours and demonstrating values that lead to a culture of civility and respect.
 
-We are the NHS: People Plan 2020/21 – action for us all recognised this need and committed to providing organisations with the Civility and Respect toolkit to help tackle bullying and harassment and to create a civil and respectful workplace culture.
+We are the NHS: People Plan 2020/21 – action for us all recognised this need and committed to providing organisations with the NHS Civility and Respect Toolkit to help tackle bullying and harassment and to create a civil and respectful workplace culture.
 
 The Civility and Respect Framework by NHS England and NHS Improvement provides a practical overview to thinking and action using the AIM approach of:
 
-analyse: understand the issues
+* **analyse**: understand the issues
 
-intervene: take action to address the issues
+* **intervene**: take action to address the issues
 
-measure: evaluate the impact of interventions
+* **measure**: evaluate the impact of interventions
 
 This makes underlying issues easier to analyse, plan for and intervene. Using the AIM model, the framework highlights the importance of data to understand and benchmark employee experience and the importance of engaging with employees to understand their experience, what the culture feels like, how the process makes them feel and what support they need.
 
@@ -26,13 +26,13 @@ Insert picture of the framework here on page 9 of the pdf
 
 There are four central themes to the NHS Civility and Respect framework which are:
 
-Theme 1: Data and Analysis
+* Theme 1: Data and Analysis
 
-Theme 2: Policy and Process
+* Theme 2: Policy and Process
 
-Theme 3: Staff Management and Support
+* Theme 3: Staff Management and Support
 
-Theme 4: Just and Restorative Culture
+* Theme 4: Just and Restorative Culture
 
 ## Theme 1 Data and Analysis
 
@@ -65,9 +65,9 @@ This theme discusses the ways in which a just and restorative culture concentrat
 
 culture and leadership elements of organisations and how they can support organisations to grow compassion in the workplace, modelled by leaders. It also emphasises working with partners such as local union representatives, Freedom to Speak Up Guardians, employee engagement leads and health and wellbeing leads. You should check this section to understand the essential elements of compassionate leadership, systems elements thar trigger inappropriate behaviours and the learning from past behaviours and ways of doing things that enables restoration.
 
-## Respect and Civility Toolkit:
+## NHS Civility and Respect Toolkit
 
-To access the NHS England and NHS Improvement Respect and Civility Toolkit - please click on the link to locate the toolkit and associated tools: 
+To access the NHS Civility and Respect Toolkit - please click on the link to locate the toolkit and associated tools: 
 
 * [Supporting our staff: a toolkit to promote cultures of civility and respect](https://www.socialpartnershipforum.org/media/177307/NHSi-Civility-and-Respect-Toolkit-v9.pdf)
 
