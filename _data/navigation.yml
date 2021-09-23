@@ -1,22 +1,36 @@
 # main links
 main:
+  - title: "Home"
+    url: "/"
   - title: "Forum"
     url: https://forum.restorativejustculture.org/
-  - title: "About"
+  - title: "About Us"
     url: /about
+    children:
+      - title: "Meet The Team"
+        url: about/#meet-the-restorative-just-culture-community-of-practice-team
+      - title: "Our Partners"
+        url: about/#our-partners
+      - title: "Contact Us"
+        url: about/#contact-us
   - title: "RJC"
     url: /restorative-just-culture
   - title: "Civility and Respect"
     url: /civility-and-respect
     children:
-      - title: "NHSEI"
-        url: /civility-and-respect
-      - title: "MerseyCare"
-        url: /civility-and-respect
+      - title: "NHS Civility and Respect Programme"
+        url: /civility-and-respect-nhs/
+      - title: "Mersey Care NHS FT"
+        url: /civility-and-respect-merseycare
   - title: "Psychological Safety"
     url: /psychological-safety
   - title: "Patient Safety"
     url: /patient-safety
+    children:
+      - title: "Restorative Just Cultures"
+        url: patient-safety/#patient-safety--just-what-does-this-mean-for-restorative-just-cultures
+      - title: 
+        url:
   - title: "Programmes"
     url: /programmes
   - title: "Get Involved"

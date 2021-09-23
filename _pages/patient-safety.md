@@ -9,7 +9,7 @@ permalink: /patient-safety/
 
 Patient safety is a combination of culture, behaviours and underlying conditions – it is fundamentally about the way we relate to and work with each other. Patient Safety as a concept is not new, but re -thinking patient safety and how we can underpin our processes, systems, polices and regulatory frameworks with restorative principles and practices is one of the ways we can re-think patient safety which provides the best support for our patients and our workforce.
 
-Re-thinking patient safety from restorative approaches is organically growing and evolving as we navigate this field together, however in keeping with our ethos of evidenced based practice and teaching, Mersey Care NHS FT would like to share their practice so far in underpinning patient safety with restorative practices.
+Re-thinking patient safety from restorative approaches is organically growing and evolving as we navigate this field together, however in keeping with our ethos of evidence-based practice and teaching, Mersey Care NHS FT would like to share their practice so far in underpinning patient safety with restorative practices.
 
 If you and your Trust are also adapting your patient safety practices, policies and frameworks and you would like to share this with the community then head over to our community forum discussion boards where you can start or add to an existing conversation or contact us and would be happy to share this for you.
 
@@ -17,7 +17,7 @@ If you and your Trust are also adapting your patient safety practices, policies 
 
 First lets hear from Dr Panchu Xavier, Consultant Forensic Psychiatrist, Deputy Medical Director and Director of Patient Safety at Mersey Care NHS Foundation Trust.
 
-<iframe src="https://northumbria.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4ebbcb8e-28c2-4f0e-bfed-ac540075fc52" width="100%" height="400px" frameborder="0"> </iframe>
+<iframe src="https://northumbria.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=67083bbe-4a51-4c8a-8339-adab0081492b&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="100%" allowfullscreen allow="autoplay"></iframe>
 
 In this video Panchu discusses and explains the different ways in which we can learn from incidents and the important role that psychological safety plays in this learning. In particular Panchu will share key points regarding patient safety, quality and a restorative just culture such as:
 
