@@ -33,8 +33,8 @@ bio-row-1:
     btn_class: "btn--primary"
   - image_path: assets/about/Hannah%20Hesslegreaves%20Picture%201.jpg
     url: about#dr-hannah-hesslegreaves
-    alt: "Hannah Hesslegreaves image"
-    title: "Hannah Hesslegreaves"
+    alt: "Dr Hannah Hesslegreaves image"
+    title: "Dr Hannah Hesslegreaves"
     excerpt: "Hannah has lead learning evaluations and research in medical education over 15 years. Her expertise at the intersections of health education..."
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -105,7 +105,7 @@ From 2014 to 2016 Kristina worked with South Tyneside Public Health as a health 
 * Masters in Business Administration (2012)
 * BA (Hons) Business and Management (2011)
 
-## Dr Madeline Carter
+## Dr Madeleine Carter
 
 ![Dr Madeline Carter image](../assets/about/Madeline%20Carter%20Photo%20VCoP.jpg){: width="250" }
 
