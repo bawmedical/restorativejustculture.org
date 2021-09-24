@@ -1,8 +1,10 @@
 images: 
   - image: assets/carousel/carousel-slide0.jpg
   - image: assets/carousel/carousel-slideb0.jpg
+  - image: assets/carousel/our-leadership-way.png
   - image: assets/carousel/carousel-slide1.jpg
   - image: assets/carousel/carousel-slideb2.jpg
+  - image: assets/carousel/staff-experience.png
   # - image: assets/carousel/carousel-slide2.jpg
   - image: assets/carousel/carousel-slide4.jpg
   - image: assets/carousel/carousel-slideb1.jpg

@@ -32,7 +32,7 @@ feature_row:
 
 This Restorative Just Culture Community of Practice brings together those people who are bound together by a genuine passion to bring about a restorative just culture in their organisation. It aims to serve as a resource and knowledge exchange for people and organisations making the shift from learning to implementation of a restorative just culture.  
 
-{% include carousel.html height="30" unit="%" duration="7" %}
+{% include carousel.html height="350" unit="px" duration="7" %}
 
 <br />
 
