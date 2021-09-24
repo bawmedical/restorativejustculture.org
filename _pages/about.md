@@ -257,10 +257,11 @@ Our partnerships and collaboration are a central component of how this community
 
 If you are interested in finding out more about the ways in which you can become one of our partners to continue this work please contact Dr Kristina Brown at [kristina.brown@northumbria.ac.uk](mailto:kristina.brown@northumbria.ac.uk)
 
-![BOB ICS logo](../assets/images/bob-logo.jpg){: width="300" }  
-
-![NHS Civility and Respect Programme image](../assets/images/TBC)
-
+<p align="center">
+  <img width="250" src="../assets/images/bob-logo.jpg">
+  <img width="170" src="../assets/images/nhs-england-logo.svg">
+</p>
+  
 # Contact Us
 
 If you need get in touch, please email us to tell us your comments, thoughts, suggestions, book a programme, seek advice and support, ideas for an initiative or anything else that comes to mind. Contact [kristina.brown@northumbria.ac.uk](mailto:kristina.brown@northumbria.ac.uk)
