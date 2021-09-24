@@ -15,6 +15,13 @@ main:
         url: about/#contact-us
   - title: "RJC"
     url: /restorative-just-culture
+    children:
+      - title: "People processes and RJC"
+        url: restorative-just-culture/#people-processes-and-restorative-just-cultures
+      - title: "Organisational design, development, and RJC"
+        url: restorative-just-culture/#organisational-design-and-development-and-effectiveness-and-restorative-just-cultures
+      - title: "RJC in action"
+        url: restorative-just-culture/#restorative-just-culture-in-action                    
   - title: "Civility and Respect"
     url: /civility-and-respect
     children:
@@ -24,6 +31,15 @@ main:
         url: /civility-and-respect-merseycare
   - title: "Psychological Safety"
     url: /psychological-safety
+    children:
+      - title: "Open and Honest Dialogue"
+        url: psychological-safety#open-and-honest-dialogue
+      - title: "Voice Behaviour and Keeping Silent"
+        url: psychological-safety#voice-behaviour-and-keeping-silent
+      - title: "Inclusive and Compassionate Leadership"
+        url: psychological-safety#inclusive-and-compassionate-leadership
+      - title: "Moving psychological safety from concept to reality"
+        url: psychological-safety#moving-psychological-safety-from-concept-to-reality---creating-psychologically-safe-teams-in-the-workplace
   - title: "Patient Safety"
     url: /patient-safety
     children:

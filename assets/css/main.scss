@@ -24,3 +24,9 @@ html {
     font-size: 16px; // change to whatever
   }
 }
+
+.feature-item {
+  .archive__item-teaser {
+    max-width: 50% !important;
+  }
+}
