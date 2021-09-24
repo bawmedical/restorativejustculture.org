@@ -10,7 +10,7 @@
 @import "minimal-mistakes";
 
 html {
-  font-size: 16px; // change to whatever
+  font-size: 30px; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 16px; // change to whatever
@@ -25,8 +25,6 @@ html {
   }
 }
 
-.feature-item {
-  .archive__item-teaser {
-    max-width: 50% !important;
-  }
+.archive__item-teaser img {
+  max-width: 60% !important;
 }
