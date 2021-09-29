@@ -1,5 +1,5 @@
 ---
-title: The NHS E&I Civility and Respect Programme
+title: The NHS England and NHS Improvement Civility and Respect Programme
 permalink: /civility-and-respect-nhs/
 ---
 
@@ -11,9 +11,9 @@ Collectively, we must ensure staff feel valued, supported and empowered to carry
 
 We are the NHS: People Plan 2020/21 – action for us all recognised this need and committed to providing organisations with the Civility and Respect toolkit to help tackle bullying and harassment and to create a civil and respectful workplace culture.
 
-## The NHS E&I Civility and Respect Toolkit
+## The NHS England and NHS Improvement Civility and Respect Toolkit
 
-The NHS E&I Civility and Respect Toolkit provides a practical overview to thinking and action using the AIM approach of:
+The NHS England and NHS Improvement Civility and Respect Toolkit provides a practical overview to thinking and action using the AIM approach of:
 
 * **analyse**: understand the issues
 
@@ -25,7 +25,7 @@ This makes underlying issues easier to analyse, plan for and intervene. Using th
 
 ![](../assets/images/NHS%20C&R%20Framework.png)
 
-There are four central themes to the NHS E&I Civility and Respect framework which are:
+There are four central themes to the NHS England and NHS Improvement Civility and Respect framework which are:
 
 * Theme 1: Data and Analysis](#theme-1-data-and-analysis)
 * Theme 2: Policy and Process](#theme-2-policy-and-process)
@@ -57,9 +57,9 @@ You should check this section for examples of questions that will help you to id
 
 This theme discusses the ways in which a just and restorative culture concentrates on the culture and leadership elements of organisations and how they can support organisations to grow compassion in the workplace, modelled by leaders. It also emphasises working with partners such as local union representatives, Freedom to Speak Up Guardians, employee engagement leads and health and wellbeing leads. You should check this section to understand the essential elements of compassionate leadership, systems elements thar trigger inappropriate behaviours and the learning from past behaviours and ways of doing things that enables restoration.
 
-## NHS E&I Civility and Respect Toolkit
+## NHS England and NHS Improvement Civility and Respect Toolkit
 
-To access the NHS E&I Civility and Respect Toolkit - please click on the link to locate the toolkit and associated tools: 
+To access the NHS England and NHS Improvement Civility and Respect Toolkit - please click on the link to locate the toolkit and associated tools: 
 
 * [Supporting our staff: a toolkit to promote cultures of civility and respect](https://www.socialpartnershipforum.org/media/177307/NHSi-Civility-and-Respect-Toolkit-v9.pdf)
 

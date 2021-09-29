@@ -255,7 +255,7 @@ Panchu has presented at international and national conferences on clinical issue
 
 Our partnerships and collaboration are a central component of how this community of practice works, grows and learns to push the boundaries and challenge the thinking around organisational cultures. Our partnerships reflect organisations who share a similar passion for restorative just cultures and are currently pursing work in and around its central themes.
 
-​If you are an NHS organisation interested in finding out more about the NHS E&I C&R programme please contact <mailto:england.civilityandrespect@nhs.net>
+​If you are an NHS organisation interested in finding out more about the NHS England and NHS Improvement Civility and Respect programme please contact <mailto:england.civilityandrespect@nhs.net>
 
 
 

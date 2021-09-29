@@ -5,8 +5,8 @@ layout: splash
 permalink: /
 feature_row:
   - image_path: /assets/images/nhs-england-logo.svg
-    alt: "NHS E&I Civility and Respect Programme image"
-    title: "NHS E&I Civility and Respect Programme"
+    alt: "NHS England and NHS Improvement Civility and Respect Programme image"
+    title: "NHS England and NHS Improvement Civility and Respect Programme"
     # excerpt: "excerpt text if required"
     # btn_label: "More about NHS England"
     # btn_class: "btn--inverse"

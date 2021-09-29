@@ -25,7 +25,7 @@ main:
   - title: "Civility and Respect"
     url: /civility-and-respect
     children:
-      - title: "NHS E&I Civility and Respect Programme"
+      - title: "NHS England and NHS Improvement Civility and Respect Programme"
         url: /civility-and-respect-nhs
       - title: "Mersey Care NHS FT"
         url: /civility-and-respect-merseycare

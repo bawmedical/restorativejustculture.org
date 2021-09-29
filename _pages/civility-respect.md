@@ -15,14 +15,14 @@ The [NHS People Promise](https://www.england.nhs.uk/ournhspeople/online-version/
 
 There is so much excellent work going on right now in the area of civility and respect such as:
 
-* NHS E&I Civility and Respect Programme
+* NHS England and NHS Improvement Civility and Respect Programme
 * Civility Saves Lives
 * I Will Speak Up, I will Listen Up, I Will Follow Up
 * The Bystander Campaign
 
 On the following pages we are highlighting two great areas of work in this area with the associated resources which can be used to implement this in your organisation:
 
-[NHS E&I Civility and Respect Programme](../civility-and-respect-nhs)
+[NHS England and NHS Improvement Civility and Respect Programme](../civility-and-respect-nhs)
 
 [Mersey Care NHS Foundation Trust Civility and Respect](../civility-and-respect-merseycare)
 
