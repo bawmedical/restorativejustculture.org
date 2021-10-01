@@ -1,13 +1,12 @@
 images: 
-  - image: assets/carousel/nu-rjc.png
-  - image: assets/carousel/carousel-slideb0.jpg
-  - image: assets/carousel/our-leadership-way.png
-  - image: assets/carousel/carousel-slide1.jpg
-  # - image: assets/carousel/carousel-slideb2.jpg
-  - image: assets/carousel/staff-experience.png
-  # - image: assets/carousel/carousel-slide2.jpg
-  - image: assets/carousel/carousel-slide4.jpg
-  - image: assets/carousel/carousel-slideb1.jpg
-  - image: assets/carousel/carousel-slide3.jpg
-  # - image: assets/carousel/carousel-slideb3.jpg
-  - image: assets/carousel/iwillspeakup.png
+  - image: "assets/carousel/RJC Banner image 1.jpg"
+  - image: "assets/carousel/RJC Banner image 2.jpg"
+  - image: "assets/carousel/RJC Banner image 3.jpg"
+  - image: "assets/carousel/RJC Banner Image 4.jpg"
+  - image: "assets/carousel/RJC Banner Image 5.jpg"
+  - image: "assets/carousel/RJC Banner Image 6.jpg"
+  - image: "assets/carousel/RJC Banner Image 7.jpg"
+  - image: "assets/carousel/RJC Banner Image 8.jpg"
+  - image: "assets/carousel/RJC Banner Image 9.jpg"
+  - image: "assets/carousel/RJC Banner Image 10.jpg"
+  - image: "assets/carousel/RJC Banner Image 11.jpg"

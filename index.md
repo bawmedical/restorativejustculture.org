@@ -4,14 +4,14 @@
 layout: splash
 permalink: /
 feature_row:
-  - image_path: /assets/images/nhs-england-logo.svg
+  - image_path: assets/images/NHS_logo_logotype.png
     alt: "NHS England and NHS Improvement Civility and Respect Programme image"
     title: "NHS England and NHS Improvement Civility and Respect Programme"
     # excerpt: "excerpt text if required"
     # btn_label: "More about NHS England"
     # btn_class: "btn--inverse"
     # url: "#test-link"
-  - image_path: /assets/images/nulogo.png
+  - image_path: assets/images/nulogo.png
     alt: "Northumbria University"
     title: "Northumbria University"
     # excerpt: "excerpt text if required"
@@ -32,7 +32,7 @@ feature_row:
 
 This Restorative Just Culture Community of Practice brings together those people who are bound together by a genuine passion to bring about a restorative just culture in their organisation. It aims to serve as a resource and knowledge exchange for people and organisations making the shift from learning to implementation of a restorative just culture.  
 
-{% include carousel.html height="350" unit="px" duration="7" %}
+{% include carousel.html height="450" unit="px" duration="7" %}
 
 <br />
 

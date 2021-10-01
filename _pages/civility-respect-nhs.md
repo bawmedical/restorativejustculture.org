@@ -70,7 +70,7 @@ To access the NHS England and NHS Improvement Civility and Respect Toolkit - ple
 * [Guidance](https://www.socialpartnershipforum.org/media/177346/Commissioning-external-consultants-to-review-bullying-and-harassment-in-NHS-organisations-Jan-2021.pdf) on review bullying and harassment in NHS organisations and key indicators to consider. 
 
 
-## The NHS Civility Programme -  Kindness into Action Masterclass
+## The NHS England and NHS Improvement Civility and Respect Programme – Kindness into Action Masterclass
 
 ![Kindness Into Action](../assets/images/Kindness%20Into%20Action%20masterclass.png)
 
