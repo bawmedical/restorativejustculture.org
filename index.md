@@ -4,11 +4,10 @@
 layout: splash
 permalink: /
 feature_row:
-  - image_path: assets/images/NHS_logo_logotype.png
-    alt: "NHS England and NHS Improvement Civility and Respect Programme image"
-    title: "NHS England and NHS Improvement Civility and Respect Programme"
+  - image_path: assets/images/mct-logo.svg
+    title: "Mersey Care NHS Foundation Trust"
     # excerpt: "excerpt text if required"
-    # btn_label: "More about NHS England"
+    # btn_label: "More about Mersey Care NHS FT"
     # btn_class: "btn--inverse"
     # url: "#test-link"
   - image_path: assets/images/nulogo.png
@@ -18,10 +17,11 @@ feature_row:
     # btn_label: "More about Northumbria University"
     # btn_class: "btn--inverse"
     # url: "#test-link"
-  - image_path: assets/images/mct-logo.svg
-    title: "Mersey Care NHS Foundation Trust"
+  - image_path: assets/images/NHS_logo_logotype.png
+    alt: "NHS England and NHS Improvement Civility and Respect Programme image"
+    title: "NHS England and NHS Improvement Civility and Respect Programme"
     # excerpt: "excerpt text if required"
-    # btn_label: "More about Mersey Care NHS FT"
+    # btn_label: "More about NHS England"
     # btn_class: "btn--inverse"
     # url: "#test-link"
 ---

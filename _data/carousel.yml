@@ -1,5 +1,5 @@
 images: 
-  - image: "assets/carousel/RJC Banner image 1.jpg"
+  # - image: "assets/carousel/RJC Banner image 1.jpg"
   - image: "assets/carousel/RJC Banner image 2.jpg"
   - image: "assets/carousel/RJC Banner image 3.jpg"
   - image: "assets/carousel/RJC Banner Image 4.jpg"
