@@ -18,8 +18,8 @@ feature_row:
     # btn_class: "btn--inverse"
     # url: "#test-link"
   - image_path: assets/images/NHS_logo_logotype.png
-    alt: "NHS England and NHS Improvement Civility and Respect Programme image"
-    title: "NHS England and NHS Improvement Civility and Respect Programme"
+    alt: "NHS England and NHS Improvement image"
+    title: "NHS England and NHS Improvement"
     # excerpt: "excerpt text if required"
     # btn_label: "More about NHS England"
     # btn_class: "btn--inverse"
