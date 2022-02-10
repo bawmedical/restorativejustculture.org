@@ -7,7 +7,7 @@ permalink: /resources/
 These resources are here to help you with your restorative just culture implementation journey.  We will add to these resources as our work in this field grows, but if you would also like to add this section and have a resource you think other members may benefit from then please get in touch.
 ## NHSEI Civility & Respect Toolkit
 
-[Respect and Civility Toolkit](http://localhost:4000/civility-and-respect/#respect-and-civility-toolkit)
+[NHSEI Civility & Respect Toolkit](../civility-and-respect/#respect-and-civility-toolkit)
 
 ## The Mersey Care NHS Foundation Trust E-learning Modules
 
