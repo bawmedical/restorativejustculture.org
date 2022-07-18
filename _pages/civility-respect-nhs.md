@@ -1,5 +1,5 @@
 ---
-title: The NHS England and NHS Improvement Civility and Respect Programme
+title: The NHS England Civility and Respect Programme
 permalink: /civility-and-respect-nhs/
 ---
 
@@ -11,9 +11,9 @@ Collectively, we must ensure staff feel valued, supported and empowered to carry
 
 We are the NHS: People Plan 2020/21 – action for us all recognised this need and committed to providing organisations with the Civility and Respect toolkit to help tackle bullying and harassment and to create a civil and respectful workplace culture.
 
-## The NHS England and NHS Improvement Civility and Respect Toolkit
+## The NHS England Civility and Respect Toolkit
 
-The NHS England and NHS Improvement Civility and Respect Toolkit provides a practical overview to thinking and action using the AIM approach of:
+The NHS England Civility and Respect Toolkit provides a practical overview to thinking and action using the AIM approach of:
 
 * **analyse**: understand the issues
 
@@ -25,7 +25,7 @@ This makes underlying issues easier to analyse, plan for and intervene. Using th
 
 ![](../assets/images/NHS%20C&R%20Framework.png)
 
-There are four central themes to the NHS England and NHS Improvement Civility and Respect framework which are:
+There are four central themes to the NHS England Civility and Respect framework which are:
 
 * Theme 1: Data and Analysis](#theme-1-data-and-analysis)
 * Theme 2: Policy and Process](#theme-2-policy-and-process)
@@ -57,9 +57,9 @@ You should check this section for examples of questions that will help you to id
 
 This theme discusses the ways in which a just and restorative culture concentrates on the culture and leadership elements of organisations and how they can support organisations to grow compassion in the workplace, modelled by leaders. It also emphasises working with partners such as local union representatives, Freedom to Speak Up Guardians, employee engagement leads and health and wellbeing leads. You should check this section to understand the essential elements of compassionate leadership, systems elements thar trigger inappropriate behaviours and the learning from past behaviours and ways of doing things that enables restoration.
 
-## NHS England and NHS Improvement Civility and Respect Toolkit
+## NHS England Civility and Respect Toolkit
 
-To access the NHS England and NHS Improvement Civility and Respect Toolkit - please click on the link to locate the toolkit and associated tools: 
+To access the NHS England Civility and Respect Toolkit - please click on the link to locate the toolkit and associated tools: 
 
 * [Supporting our staff: a toolkit to promote cultures of civility and respect](https://www.socialpartnershipforum.org/media/177307/NHSi-Civility-and-Respect-Toolkit-v9.pdf)
 
@@ -70,11 +70,11 @@ To access the NHS England and NHS Improvement Civility and Respect Toolkit - ple
 * [Guidance](https://www.socialpartnershipforum.org/media/177346/Commissioning-external-consultants-to-review-bullying-and-harassment-in-NHS-organisations-Jan-2021.pdf) on review bullying and harassment in NHS organisations and key indicators to consider. 
 
 
-## The NHS England and NHS Improvement Civility and Respect Programme – Kindness into Action Masterclass
+## The NHS England Civility and Respect Programme – Kindness into Action Masterclass
 
 ![Kindness Into Action](../assets/images/Kindness%20Into%20Action%20masterclass.png)
 
-NHS England and NHS Improvement Civility and Respect programme brings you a Kindness into Action masterclass to create and sustain kinder cultures in the NHS.
+NHS England Civility and Respect programme brings you a Kindness into Action masterclass to create and sustain kinder cultures in the NHS.
 
 Kinder cultures lead to safer care and better outcomes. This masterclass supports the NHS People Plan and People Promise, and is recommended for Boards, Executives and senior leaders, across all clinical and non-clinical roles, in Health and Social Care. You will explore the evidence, practice kinder leadership and learn lessons from the front-line of kinder culture change.
 
